@@ -1,2 +1,4 @@
 # Project exclude paths
 /couture-data-admin/target/
+*.iml
+.idea
